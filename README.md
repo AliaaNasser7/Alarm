@@ -23,6 +23,6 @@ This is a simple alarm clock application created using Python and Tkinter for th
 
 ## Sample Output:
 
-
+![Sample Output](https://github.com/AliaaNasser7/Alarm/assets/125163801/627f3e70-296e-43d5-a3f6-40060989b28c)
 
 
